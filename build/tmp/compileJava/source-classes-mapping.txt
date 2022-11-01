@@ -1,0 +1,14 @@
+model/Product.java
+ model.Product
+dao/Connect_MySql.java
+ dao.Connect_MySql
+controller/ProductServlet.java
+ controller.ProductServlet
+dao/CRUD_Product.java
+ dao.CRUD_Product
+controller/CreateProductServlet.java
+ controller.CreateProductServlet
+controller/EditProductServlet.java
+ controller.EditProductServlet
+service/ProductService.java
+ service.ProductService
